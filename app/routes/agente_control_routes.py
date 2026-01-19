@@ -1,7 +1,7 @@
 import logging
 import os
 from flask import Blueprint, request, jsonify, current_app
-from google import genai
+# from google import genai
 from config import Config
 from openai import OpenAI
 
